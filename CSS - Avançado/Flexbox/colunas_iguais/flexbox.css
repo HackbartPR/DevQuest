@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+  min-width: 375px;
+  max-width: 100%;
+
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.image {
+  max-width: 100%;
+}
+
+.coluna {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  border: 1px solid gray;
+}
+
+a {
+  align-self: flex-start;
+  margin-top: auto;
+}

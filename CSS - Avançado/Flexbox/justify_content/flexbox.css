@@ -1,0 +1,33 @@
+.flex_start {
+  justify-content: flex-start;
+}
+
+.flex_start_reverse {
+  justify-content: flex-start;
+  flex-direction: row-reverse;
+}
+
+.flex_end {
+  justify-content: flex-end;
+}
+
+.flex_end_reverse {
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+}
+
+.flex_center {
+  justify-content: center;
+}
+
+.flex_between {
+  justify-content: space-between;
+}
+
+.flex_around {
+  justify-content: space-around;
+}
+
+.flex_evenly {
+  justify-content: space-evenly;
+}
